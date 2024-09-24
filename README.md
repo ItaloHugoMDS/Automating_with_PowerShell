@@ -3,7 +3,7 @@
 The goal of this project is to automate the process of information collection for a team in Operation Center.  
 
 The project consists of two scripts written in PowerShell (v5.1) which creates a series of folders, subfolders and files
-in order to provide a organized way of storing day-to-day client information.  
+in order to provide an organized way of storing day-to-day client information.  
 
 The scripts can be executed anywhere in your system, and they don't require administrative privileges to run.  
 

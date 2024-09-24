@@ -50,7 +50,7 @@ if (!(Test-Path -Path $Day_Path))
 
 $Current_Path = $Day_Path + "\$Day\"
 
-$Message_Template = "First Name: `nLast Name: `nID: `nLocation: `nProblem Description: "
+$Message_Template = "First Name: `nLast Name: `nID: `nLocation: `nCallBack Number: `nProblem Description: "
 
 New-Item -ItemType File -Name $File_Timestamp -Path $Current_Path -Value $Message_Template
 

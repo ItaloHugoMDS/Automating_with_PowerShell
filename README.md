@@ -30,7 +30,7 @@ going to be used to store and run the scripts.
 
 [![2 Search Bar](./images/2_Search_Bar.png)][image2]
 
-3. Clean the selected text and type: `powershell`
+3. Clean the selected text and type: `powershell`. Press `Enter`.
 
 [![3 Starting PowerShell](./images/3_Starting_PowerShell.png)][image3]
 

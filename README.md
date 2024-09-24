@@ -46,7 +46,7 @@ correspondent files according to the new spellings assigned by you.*
 The scripts have to be executed in a specific order at first. So, follow the instructions to guarantee an issueless
 execution.  
 
-1. The first script to be executed will be the setup, for that you can copy the following line or just type
+1. The first script to be executed will be the "Setup". For that, you can copy the following line or just type
 `.\Setup.ps1` in your already opened PowerShell.  
 
 ````powershell

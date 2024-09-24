@@ -58,7 +58,7 @@ When executed, you should see some files created within your folder.
 [![5 Executing Setup Script](./images/5_Executing_Setup_Script.png)][image5]  
 
 2. Now, in order to have the desired result, you can run the next script by typing `.\Call.ps1` or copying and paste the
-to PowerShell.  
+following line to PowerShell.  
 
 ````powershell
 .\Call.ps1

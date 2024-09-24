@@ -82,6 +82,6 @@ year without having to alter anything manually. Those changes are created just b
 [image1]: https://github.com/ItaloHugoMDS/Automating_with_PowerShell/blob/main/images/1_Moving_Files_to_Folder.png
 [image2]: https://github.com/ItaloHugoMDS/Automating_with_PowerShell/blob/main/images/2_Search_Bar.png
 [image3]: https://github.com/ItaloHugoMDS/Automating_with_PowerShell/blob/main/images/3_Starting_PowerShell.png
-[image4]: 
-[image5]: 
-[image6]: 
+[image4]: https://github.com/ItaloHugoMDS/Automating_with_PowerShell/blob/main/images/4_Opened_PowerShell.png
+[image5]: https://github.com/ItaloHugoMDS/Automating_with_PowerShell/blob/main/images/5_Executing_Setup_Script.png
+[image6]: https://github.com/ItaloHugoMDS/Automating_with_PowerShell/blob/main/images/6_Executing_Call_Script.png
